@@ -54,3 +54,32 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shantanu-zingare-/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shantanup.zingare@gmail.com)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/)
+
+
+# 🚗 Vehicle Configurator — B2B Platform
+
+> A full-stack B2B platform connecting leasing companies with rental car firms.
+
+![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=flat&logo=dotnet) 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat&logo=spring-boot)
+![React](https://img.shields.io/badge/React_18-61DAFB?style=flat&logo=react)
+![MySQL](https://img.shields.io/badge/MySQL_8-005C84?style=flat&logo=mysql)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker)
+
+## ✨ Features
+- JWT-based authentication & role management
+- Microservices architecture (Spring Boot + .NET Core)
+- Vehicle fleet customization per model-specific conditions
+- REST APIs with Swagger documentation
+- Dockerized deployment
+
+## 🏗️ Architecture
+Frontend (React 18) → API Gateway → Spring Boot 3 + .NET Core 8 → MySQL 8
+
+## 🚀 Run Locally
+\`\`\`bash
+git clone https://github.com/shantanupzingare/Vehicle-Configurator
+cd Vehicle-Configurator
+docker-compose up
+\`\`\`
+
