@@ -1,415 +1,308 @@
-<h1 align="center">Hi 👋, I'm Shantanu Zingare</h1>
-<h3 align="center">Backend Developer | C# · .NET · Java · Spring Boot · SQL</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Backend+Developer;.NET+%7C+C%23+%7C+Java+%7C+Spring+Boot;REST+API+%7C+Microservices+%7C+Docker;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=220&section=header&text=Shantanu%20Zingare&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20Developer%20%7C%20.NET%20%7C%20Java%20%7C%20Cloud&descSize=20&descAlignY=62&descColor=c7d2fe" width="100%"/>
 
----
-
-### 🚀 About Me
-- 🏢 Jr. Software Developer @ **Mugenesys Software Pvt Ltd** — building real-time trading platforms
-- 🎓 CDAC Certified | B.Tech CSE from ACET Nagpur
-- 🔭 Currently working on: **Digital Ticks** — CTCL Trading Platform (RabbitMQ, WebSocket, .NET 8)
-- 🌱 Learning: **Microservices architecture, Docker, Cloud deployment**
-- 👨‍💻 All my projects: [github.com/shantanupzingare](https://github.com/shantanupzingare)
-- 💬 Ask me about: **.NET Core, REST APIs, JWT Auth, SQL Server, Spring Boot**
-- 📫 Reach me: **shantanup.zingare@gmail.com**
-- 📍 Mumbai, India | **Open to Work**
-
----
-
-### 🛠️ Tech Stack
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shantanupzingare&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanupzingare&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shantanupzingare&theme=tokyonight"/>
-</p>
-
----
-
-### 🔗 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shantanu-zingare-/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shantanup.zingare@gmail.com)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/)
-
-
-# 🚗 Vehicle Configurator — B2B Platform
-
-> A full-stack B2B platform connecting leasing companies with rental car firms.
-
-![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=flat&logo=dotnet) 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat&logo=spring-boot)
-![React](https://img.shields.io/badge/React_18-61DAFB?style=flat&logo=react)
-![MySQL](https://img.shields.io/badge/MySQL_8-005C84?style=flat&logo=mysql)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker)
-
-## ✨ Features
-- JWT-based authentication & role management
-- Microservices architecture (Spring Boot + .NET Core)
-- Vehicle fleet customization per model-specific conditions
-- REST APIs with Swagger documentation
-- Dockerized deployment
-
-## 🏗️ Architecture
-Frontend (React 18) → API Gateway → Spring Boot 3 + .NET Core 8 → MySQL 8
-
-## 🚀 Run Locally
-\`\`\`bash
-git clone https://github.com/shantanupzingare/Vehicle-Configurator
-cd Vehicle-Configurator
-docker-compose up
-\`\`\`
-
-
+</div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=🛒%20Kirana%20Store%20Pro&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Premium%20SaaS%20Store%20Management%20System&descAlignY=60&descSize=18" width="100%"/>
+<a href="https://www.linkedin.com/in/shantanu-zingare-/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:shantanup.zingare@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/shantanupzingare">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.hackerrank.com/">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
 
-<br/>
+<br/><br/>
 
-[![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
-[![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
-[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)](https://razorpay.com/)
-[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-
-<br/>
-
-![GitHub stars](https://img.shields.io/github/stars/shantanupzingare/KiranaStore?style=social)
-![GitHub forks](https://img.shields.io/github/forks/shantanupzingare/KiranaStore?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/shantanupzingare/KiranaStore?color=green)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-
-<br/>
-
-> **A production-grade, full-stack Kirana Store Management System built like Shopify POS —  
-> with real-time billing, automated invoicing, payment gateway, and WhatsApp/Email notifications.**
-
-<br/>
-
-[✨ Features](#-features) • [🏗 Architecture](#-architecture) • [📸 Screenshots](#-screenshots) • [🚀 Getting Started](#-getting-started) • [📡 API Docs](#-api-documentation) • [🛠 Tech Stack](#-tech-stack)
+<img src="https://komarev.com/ghpvc/?username=shantanupzingare&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/badge/Open%20To%20Work-brightgreen?style=for-the-badge&logo=green&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mumbai%2C%20India-📍-orange?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🌟 What Is This?
-
-**Kirana Store Pro** is a **premium SaaS-grade store management system** for Indian retail stores. It handles everything from billing and inventory to GST calculation and automated invoice delivery — all in one sleek, modern dashboard.
-
-Think:
-- 🛍️ **Shopify POS** — fast, intuitive billing
-- 📦 **Inventory alerts** — never go out of stock
-- 🧾 **Auto-invoicing** — PDF sent via Email + WhatsApp instantly
-- 💳 **Razorpay integration** — UPI, cards, net banking
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=Backend+Developer+%7C+.NET+8+%7C+C%23+%7C+Java;Building+Real-Time+Trading+%26+SaaS+Platforms;Microservices+%7C+REST+APIs+%7C+Docker+%7C+SQL;CDAC+Certified+%7C+500%2B+LinkedIn+Connections;Open+to+Exciting+Backend+Opportunities+🚀" alt="Typing SVG" width="100%"/>
 
 ---
 
-## ✨ Features
-
-### 🔐 Authentication & Security
-- JWT + Refresh Token authentication
-- Role-based access (Admin / Cashier / Manager)
-- BCrypt password hashing
-- Secure API endpoints with middleware validation
-
-### 🖥️ Premium Dashboard
-- Animated KPI cards (Sales, Revenue, Orders, Stock)
-- Real-time charts (daily sales, revenue trends, top products)
-- Dark + Light mode toggle
-- Glassmorphism UI with smooth Framer Motion animations
-
-### 🧾 POS Billing System
-- Ultra-fast billing interface (keyboard-friendly)
-- Live cart with real-time total + GST calculation
-- Multi-payment support (Cash / UPI / Card / Razorpay)
-- Discount & offers engine
-- One-click invoice generation
-
-### 📄 Automated Invoice System
-- Beautiful PDF invoice generation (QuestPDF / iTextSharp)
-- Store logo, GST breakdown, QR code support
-- Auto-send PDF via **Email** (SMTP/SendGrid)
-- Auto-send via **WhatsApp** (Twilio/Meta API)
-- Invoice preview screen in frontend
-
-### 📦 Inventory & Products
-- Product CRUD with categories and variants
-- Low-stock alerts & notifications
-- Barcode scanner support
-- Bulk import/export (Excel)
-
-### 👥 Customer & Supplier Management
-- Customer profiles with purchase history
-- WhatsApp number + Email for auto-notifications
-- Supplier contact management and order tracking
-
-### 📊 Reports & Analytics
-- Sales reports (daily / weekly / monthly)
-- Revenue breakdown by category
-- GST filing-ready reports
-- Export to PDF / Excel
-
-### 💳 Payment Gateway (Razorpay)
-- Full Razorpay checkout integration
-- UPI, Cards, Net Banking, Wallets
-- Payment verification & transaction logs
-- Refund management
-
----
-
-## 🏗 Architecture
-```
-┌─────────────────────────────────────────────────────────────┐
-│                    React 18 + TypeScript                     │
-│              Vite · Tailwind CSS · Framer Motion            │
-│           Zustand · React Router · Axios · Recharts         │
-└─────────────────────┬───────────────────────────────────────┘
-                      │ REST API (HTTPS)
-┌─────────────────────▼───────────────────────────────────────┐
-│                  .NET 8 Web API                              │
-│              Clean Architecture (CQRS)                      │
-│     JWT Auth · AutoMapper · FluentValidation · Serilog      │
-├──────────────┬───────────────┬──────────────────────────────┤
-│  SQL Server  │     Redis     │    Background Jobs           │
-│  (EF Core)   │  (Caching)    │  (HangFire / Hosted Service) │
-└──────────────┴───────┬───────┴──────────────────────────────┘
-                       │ External Services
-        ┌──────────────┼──────────────┐
-        ▼              ▼              ▼
-   Razorpay       SendGrid /      Twilio /
-   Payments        SMTP Email    Meta WhatsApp
+## 👨‍💻 About Me
+```javascript
+const shantanu = {
+  name        : "Shantanu Zingare",
+  location    : "Mumbai, Maharashtra, India 🇮🇳",
+  currentRole : "Software Developer @ Gokyo Analytics LLP",
+  previous    : ["Jr. DotNet Developer @ MuGenesys", ".NET Intern @ Nass Technologies"],
+  education   : ["B.Tech CSE — ACET Nagpur (8.5 CGPA)", "PG-DAC — CDAC India (VITA, Mumbai)"],
+  skills      : ["C#", ".NET 8", "Java", "Spring Boot", "React", "SQL Server", "Docker"],
+  certifiedIn : ["C# — Microsoft", "SQL Basic & Intermediate — HackerRank",
+                 "Generative AI Fundamentals — Databricks",
+                 "SQL Analytics & BI — Databricks"],
+  strengths   : ["REST APIs", "Microservices", "JWT Auth", "RabbitMQ", "WebSocket"],
+  available   : true,
+  contact     : "shantanup.zingare@gmail.com"
+};
 ```
 
 ---
 
-## 📂 Project Structure
-```
-KiranaStore/
-│
-├── 📁 backend/                         # .NET 8 Clean Architecture
-│   ├── KiranaStore.API/                # Controllers, Middleware, Program.cs
-│   ├── KiranaStore.Application/        # CQRS, DTOs, Interfaces, Validators
-│   ├── KiranaStore.Domain/             # Entities, Enums, Domain Events
-│   ├── KiranaStore.Infrastructure/     # EF Core, Redis, External Services
-│   │   ├── Services/
-│   │   │   ├── PaymentService.cs       # Razorpay integration
-│   │   │   ├── EmailService.cs         # SMTP / SendGrid
-│   │   │   ├── WhatsAppService.cs      # Twilio / Meta API
-│   │   │   └── InvoiceService.cs       # PDF generation
-│   │   └── Repositories/
-│   └── KiranaStore.Tests/              # xUnit tests
-│
-├── 📁 frontend/                        # React + TypeScript + Vite
-│   ├── src/
-│   │   ├── components/                 # Reusable UI components
-│   │   │   ├── ui/                     # Buttons, Cards, Modals
-│   │   │   ├── pos/                    # POS Billing UI
-│   │   │   └── invoice/                # Invoice Preview
-│   │   ├── pages/                      # Dashboard, Billing, Reports...
-│   │   ├── store/                      # Zustand global state
-│   │   ├── services/                   # Axios API calls
-│   │   └── hooks/                      # Custom React hooks
-│   └── tailwind.config.ts
-│
-├── 📁 docs/                            # API docs, screenshots
-├── docker-compose.yml
-└── README.md
-```
+## 💼 Work Experience
+
+<table width="100%">
+<tr>
+<td width="6%" align="center">🟢</td>
+<td width="94%">
+
+**Software Developer** — [Gokyo Analytics LLP](https://www.linkedin.com/in/shantanu-zingare-/)
+`Dec 2025 – Present` · Full-time · Mumbai (On-site)
+- Backend application development using **C# and .NET Core**
+- Database integration, debugging, and feature enhancements
+- **Stack:** .NET Core · .NET APIs · C# · SQL
+
+</td>
+</tr>
+<tr>
+<td align="center">🔵</td>
+<td>
+
+**Jr. DotNet Developer** — [MuGenesys Software Pvt Ltd](https://github.com/shantanupzingare)
+`May 2025 – Nov 2025` · 7 months · Full-time · Mumbai (On-site)
+- Worked on **Digital Ticks** — CTCL Real-Time Trading Platform
+- Built **Admin-API, Order Management System (OMS), DBWriter, Component Monitoring Agent**
+- Designed RESTful APIs for order flow & trade execution using **.NET 6 + Entity Framework Core**
+- Implemented **RabbitMQ + WebSocket** pipelines for live market data broadcasting
+- Enhanced **DBWriter** with ADO .NET + stored procedures for transactional reliability
+- **Stack:** C# · .NET 8 · ADO.NET · SQL Server · RabbitMQ · WebSocket
+
+</td>
+</tr>
+<tr>
+<td align="center">🟡</td>
+<td>
+
+**.NET Developer Intern** — Nass Technologies
+`Jul 2023 – Mar 2024` · 9 months · Nagpur
+- Built **Maple Outing** — a travel website for personalized Nagpur experiences
+- Implemented booking system, SQL-based real-time availability, and secure login (BCrypt)
+- **Stack:** ASP.NET · C# · HTML5 · CSS3 · JavaScript · SQL Server
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠 Tech Stack
+## 🎓 Education
 
-| Layer | Technology |
-|-------|-----------|
-| **Frontend** | React 18, TypeScript, Vite, Tailwind CSS, Framer Motion |
-| **State Management** | Zustand + React Query |
-| **Charts** | Recharts / Chart.js |
-| **Backend** | .NET 8 Web API, Clean Architecture |
-| **ORM** | Entity Framework Core 8 |
-| **Database** | SQL Server 2022 |
-| **Cache** | Redis |
-| **Auth** | JWT + Refresh Tokens |
-| **PDF** | QuestPDF / iTextSharp |
-| **Payments** | Razorpay |
-| **Email** | SendGrid / SMTP |
-| **WhatsApp** | Twilio / Meta Cloud API |
-| **Logging** | Serilog + Seq |
-| **Containerization** | Docker + Docker Compose |
-| **Validation** | FluentValidation |
-| **Mapping** | AutoMapper |
+| Degree | Institution | Score | Year |
+|--------|------------|-------|------|
+| **PG-DAC** (Advanced Computing) | CDAC — VITA, Mumbai | Certified | Aug 2024 – Feb 2025 |
+| **B.Tech** in Computer Science | ACET, Nagpur (RTMNU) | **8.5 CGPA** | Jul 2020 – May 2024 |
+| Class XII | Jeevan Vikas Vidyalaya, Umred | 71.23% | 2019 – 2020 |
+| Class X | Adarsh Janata Vidyalaya, Bhisi | 84% | 2016 – 2017 |
 
 ---
 
-## 🚀 Getting Started
+## 🛠️ Tech Stack
 
-### Prerequisites
-```bash
-- .NET 8 SDK
-- Node.js 18+
-- Docker & Docker Compose
-- SQL Server (or use Docker)
-- Redis (or use Docker)
-```
+<div align="center">
 
-### 1️⃣ Clone the repo
-```bash
-git clone https://github.com/shantanupzingare/KiranaStore
-cd KiranaStore
-```
+**Languages**
 
-### 2️⃣ Start with Docker (Recommended)
-```bash
-docker-compose up --build
-```
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-This spins up:
-- ✅ .NET 8 API → `http://localhost:5000`
-- ✅ React App → `http://localhost:3000`
-- ✅ SQL Server → port `1433`
-- ✅ Redis → port `6379`
+**Frameworks & Libraries**
 
-### 3️⃣ Manual Setup
+![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-**Backend:**
-```bash
-cd backend
-cp appsettings.example.json appsettings.json
-# Fill in your DB, Redis, Razorpay, SendGrid, Twilio keys
-dotnet restore
-dotnet ef database update
-dotnet run --project KiranaStore.API
-```
+**Databases & Messaging**
 
-**Frontend:**
-```bash
-cd frontend
-cp .env.example .env
-# Set VITE_API_URL=http://localhost:5000
-npm install
-npm run dev
-```
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+</div>
 
 ---
 
-## 🔑 Environment Variables
-```env
-# Backend — appsettings.json
-ConnectionStrings__Default=Server=.;Database=KiranaStoreDB;...
-Redis__ConnectionString=localhost:6379
-Jwt__Secret=your-super-secret-key
-Razorpay__KeyId=rzp_test_xxx
-Razorpay__KeySecret=your_secret
-SendGrid__ApiKey=SG.xxx
-Twilio__AccountSid=ACxxx
-Twilio__AuthToken=your_token
-Twilio__WhatsAppFrom=whatsapp:+14155238886
+## 🏆 Certifications & Achievements
 
-# Frontend — .env
-VITE_API_URL=http://localhost:5000/api
-VITE_RAZORPAY_KEY_ID=rzp_test_xxx
+<div align="center">
+
+| Badge | Certification | Issuer |
+|-------|--------------|--------|
+| 🥇 | **C# Certified** | Microsoft |
+| 🟢 | **SQL (Basic) — Verified** | HackerRank |
+| 🟢 | **SQL (Intermediate) — Verified** | HackerRank |
+| 🤖 | **Generative AI Fundamentals** | Databricks |
+| 📊 | **SQL Analytics & BI — Knowledge Badge** | Databricks |
+| 🎓 | **Post Graduate Diploma in Advanced Computing** | CDAC India |
+| 💻 | **C Programming & OOP with C++** | Disha Academy, Nagpur |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 [Kirana Store Pro](https://github.com/shantanupzingare/KiranaStore)
+> Premium SaaS Store Management System
+
+![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF)
+
+- 🧾 POS billing with real-time GST calculation
+- 💳 Razorpay payment gateway (UPI/Cards/NetBanking)
+- 📧 Auto-invoice via Email + WhatsApp (Twilio)
+- 📦 Inventory management + low-stock alerts
+- 🐳 Fully Dockerized deployment
+
+</td>
+<td width="50%" valign="top">
+
+### 🚗 [Vehicle Configurator](https://github.com/shantanupzingare/Vehicle-Configurator)
+> B2B Platform — Leasing Companies & Rental Firms
+
+![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot)
+![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker)
+
+- 🔐 JWT-based authentication + role management
+- 🏗️ Microservices (Spring Boot 3 + .NET Core 8)
+- 🚘 Dynamic fleet customization engine
+- 📋 REST APIs with full Swagger documentation
+- 🐳 Docker Compose multi-service setup
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 [Stock Market Prediction](https://github.com/shantanupzingare/Stock-Market-Prediction/tree/master)
+> ML-powered Price Forecasting System
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+- 📊 Historical data analysis + Linear Regression model
+- 🧹 Data preprocessing with Pandas
+- 📉 Visualization with Matplotlib & Seaborn
+- 🎯 Predictive modeling for actionable insights
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [Maple Outing](https://github.com/shantanupzingare)
+> Travel Website — Internship @ Nass Technologies
+
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server)
+
+- 🗺️ Personalized travel experiences in Nagpur
+- 📅 Booking system with real-time availability (SQL)
+- 🔒 Secure login with BCrypt password hashing
+- 📱 Mobile-responsive design
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shantanupzingare&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanupzingare&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" height="170"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shantanupzingare&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=8b5cf6&currStreakLabel=c9d1d9&sideLabels=c9d1d9" width="60%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shantanupzingare&bg_color=0d1117&color=6366f1&line=8b5cf6&point=06b6d4&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+---
+
+## 🏅 HackerRank Badges
+
+<div align="center">
+
+![SQL](https://img.shields.io/badge/SQL%20Basic-Verified%20✓-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL%20Intermediate-Verified%20✓-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Proficient-gold?style=for-the-badge&logo=hackerrank&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Proficient-gold?style=for-the-badge&logo=hackerrank&logoColor=white)
+
+</div>
+
+---
+
+## 💬 What I'm Up To
 ```
-
----
-
-## 📡 API Documentation
-
-Swagger UI available at: `http://localhost:5000/swagger`
-
-| Module | Endpoint | Method |
-|--------|----------|--------|
-| Auth | `/api/auth/login` | POST |
-| Auth | `/api/auth/refresh` | POST |
-| Products | `/api/products` | GET / POST |
-| Billing | `/api/billing/create` | POST |
-| Invoice | `/api/invoice/{id}/pdf` | GET |
-| Invoice | `/api/invoice/{id}/send-email` | POST |
-| Invoice | `/api/invoice/{id}/send-whatsapp` | POST |
-| Payments | `/api/payments/create-order` | POST |
-| Payments | `/api/payments/verify` | POST |
-| Reports | `/api/reports/sales` | GET |
-
----
-
-## 📸 Screenshots
-
-> *(Add your UI screenshots here — Dashboard, POS Screen, Invoice Preview, Reports)*
-
-| Dashboard | POS Billing | Invoice |
-|-----------|------------|---------|
-| ![Dashboard](docs/screenshots/dashboard.png) | ![POS](docs/screenshots/pos.png) | ![Invoice](docs/screenshots/invoice.png) |
-
----
-
-## 🔄 Invoice Automation Flow
+🔨  Currently building   → Backend systems @ Gokyo Analytics LLP (C# / .NET)
+📖  Currently learning   → Cloud (Azure / AWS), Kafka, Advanced Microservices
+🎯  2025 Goal            → Contribute to open source + Get Azure certified
+💡  Fun fact             → I built a real-time trading platform handling live market feeds!
 ```
-Customer pays at POS
-        ↓
-  Bill generated
-        ↓
-  PDF created ──────────────────────────┐
-        ↓                               │
- Email exists?        WhatsApp exists?  │
-   YES → Send PDF       YES → Send link │
-   NO  → Skip           NO  → Skip     │
-        ↓                               │
- Invoice logged in DB ←─────────────────┘
-```
-
----
-
-## 🤝 Contributing
-```bash
-# Fork → Branch → Commit → PR
-git checkout -b feature/your-feature
-git commit -m "feat: add your feature"
-git push origin feature/your-feature
-```
-
----
-
-## 📄 License
-
-MIT © [Shantanu Zingare](https://github.com/shantanupzingare)
 
 ---
 
 <div align="center">
 
-**Built with ❤️ by Shantanu Zingare**
+**💼 Open to Backend / Full-Stack roles — .NET, Java, Microservices**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shantanu-zingare-/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/shantanupzingare)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:shantanup.zingare@gmail.com)
+*Let's connect and build something amazing together!*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<a href="https://www.linkedin.com/in/shantanu-zingare-/">
+  <img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:shantanup.zingare@gmail.com">
+  <img src="https://img.shields.io/badge/Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:6366f1&height=120&section=footer" width="100%"/>
 
 </div>
